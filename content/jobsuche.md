@@ -1,4 +1,4 @@
-Up: [[001_data and discourse index]] 
+Up: [[index]] 
 
 
 #### Internships

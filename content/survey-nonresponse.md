@@ -1,6 +1,6 @@
 **Type:** #academic/course 
 
-Up: [[001_data and discourse index]]
+Up: [[index]]
 
 ## Course Description
 

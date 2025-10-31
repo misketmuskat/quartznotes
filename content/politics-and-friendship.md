@@ -1,4 +1,4 @@
-Up: [[001_data and discourse index]]
+Up: [[index]]
 
 ---
 ### Week 6: St. Augustine — 26.05.2025
