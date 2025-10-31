@@ -2,7 +2,7 @@ Up: [[024_german-b1-course]]
 Prev: [[week4-adjektivendung-genitiv-infinitivmitzu]]
 Next: [[week6-gründe-nennen]]
 
-Related: [[konjunktiv-II-in-detail]]
+Related: [[week5-konjunktiv-II-in-detail]]
 ## Konjunktiv II
 - **For what can we use it?**
 	- Wunsch

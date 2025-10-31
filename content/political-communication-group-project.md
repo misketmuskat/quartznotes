@@ -11,10 +11,7 @@ Up: [[political-communication]]
 - Opposition Party Leader Özgür Özel — In Ferdi Zeyrek's Funeral
 	- https://www.instagram.com/eczozgurozel/
 
-[[ekrem-imamoglu-instagram-highlights]]
-[[zohran-mamdani-social-media-usage]]
-
-[[klemm2011-bilder-der-macht]]
+[[ref_klemm2011]]
 
 ---
 ##### Soziale Semiotik
@@ -44,9 +41,6 @@ A picture is a tool that not only “shows” but also communicates.
 - **Pragmatik** — What meanings it carries?
 - **Semantik** — What functions it has in what contexts?
 - **Rhetorik** — What is the effect that is aimed?
-
-
-
 
 - Affective Power of The Image
 

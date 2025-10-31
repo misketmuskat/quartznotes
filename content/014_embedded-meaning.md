@@ -20,8 +20,8 @@ Up: [[index]]
 [[how-to-make-a-poster]]
 
 ## Example Articles:
-[[grayson2017]]
-[[heuser2023]]
+[[ref_grayson2017]]
+[[ref_heuser2023]]
 
 
 [[statquest-word2vec]]

@@ -1,13 +1,7 @@
 ---
-title: Welcome to Quartz
+title: TU Darmstadt | Data and Discourse Studies Index
 ---
-
-**Type:** #index 
-## Studies and Curriculum
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
+## My Curriculum
 
 | **Semester 1**                   | **Semester 2**                       | **Semester 3**                                           | **Semester 4** |
 | -------------------------------- | ------------------------------------ | -------------------------------------------------------- | -------------- |

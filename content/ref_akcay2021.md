@@ -1,3 +1,9 @@
+---
+title:
+  - Authoritarian Consolidation Dynamics in Turkey
+tags:
+  - reference
+---
 Up: [[democratization-autocratization]]
 
 Akçay, Ümit. 2021. “Authoritarian Consolidation Dynamics in Turkey.” _Contemporary Politics_ 27(1): 79–104. doi:[10.1080/13569775.2020.1845920](https://doi.org/10.1080/13569775.2020.1845920).

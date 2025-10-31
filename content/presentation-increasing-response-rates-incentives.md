@@ -5,17 +5,17 @@ Up: [[survey-nonresponse]]
 [[incentives-presentation-flow]]
 
 ### Literature List
-- [x] [[singer2018]] — General view on incentives, can be used in introduction
-- [x] [[brown2016]] ⭐ — Effect of a post-paid incentive on response rates to a web-based  survey
-- [x] [[decamp2016]] ⭐ — Effectiveness of Conditional Incentives for Online Surveys
-- [x] [[veen2016]] — Effects of Prenotification, Prepaid Cash, Prepaid Vouchers, and Postpaid Vouchers in Online
-- [ ] [[bosnjak2003]] ⭐ — Prepaid and Promised Incentives in Web Surveys: An Experiment
-- [ ] [[booth2024]] — Effect of Monetary Incentives on Web Survey Response Rates
-- [ ] [[spreen2020]] — Varying Financial Incentives on Data Quality in Web Panel Surveys
-- [ ] [[coopersmith2016]] — Effects of Incentive Amount and Type of Web Survey Response Rates
-- [ ] [[hsieh2016]] — The Impact of Incentives on *Participation Bias* 
-- [ ] [[tiffanys.2022]]  — Digital Payments as an Alternative to Direct Mail (preferences)
-- [x] [[sammut2021]] — 
+- [ ] [[ref_singer2018]] — General view on incentives, can be used in introduction
+- [ ] [[ref_brown2016]] ⭐ — Effect of a post-paid incentive on response rates to a web-based  survey
+- [ ] [[ref_decamp2016]] ⭐ — Effectiveness of Conditional Incentives for Online Surveys
+- [ ] [[ref_veen2016]] — Effects of Prenotification, Prepaid Cash, Prepaid Vouchers, and Postpaid Vouchers in Online
+- [ ] [[ref_bosnjak2003]] ⭐ — Prepaid and Promised Incentives in Web Surveys: An Experiment
+- [ ] [[ref_booth2024]] — Effect of Monetary Incentives on Web Survey Response Rates
+- [ ] [[ref_spreen2020]] — Varying Financial Incentives on Data Quality in Web Panel Surveys
+- [ ] [[ref_coopersmith2016]] — Effects of Incentive Amount and Type of Web Survey Response Rates
+- [ ] [[ref_hsieh2016]] — The Impact of Incentives on *Participation Bias* 
+- [ ] [[ref_tiffanys2022]]  — Digital Payments as an Alternative to Direct Mail (preferences)
+- [ ] [[ref_sammut2021]] — 
 
 #### General Line
 - The general message should be that incentives are helpful in increasing response rates
@@ -38,7 +38,7 @@ Up: [[survey-nonresponse]]
 	- do they increase or reduce bias?
 	- what to be careful about incentives 
 		- demographic backgrounds are somewhat important in incentives  
-- [ ] Web surveys — Whys, why nots [[sammut2021]]
+- [ ] Web surveys — Whys, why nots [[ref_sammut2021]]
 	- Advantages → 
 	- Disadvantages → no interviewer
 	- Problems with web-surveys: response rates

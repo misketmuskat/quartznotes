@@ -1,7 +1,7 @@
 ## Introduction
 - ### General Introduction
 	- Incentives
-	- Providing meaningful incentives demonstrates to respondents that researchers understand the competing demands on their time and value their input. The effects of incentives, particularly when prepaid, are strongly established in survey research literature as effective tools for increasing response. However, effectiveness of incentives on web-administered surveys is less clear, and can be impacted by a number of factors, including incentive type and amount, timing, and mode of survey administration. [[coopersmith2016]]
+	- Providing meaningful incentives demonstrates to respondents that researchers understand the competing demands on their time and value their input. The effects of incentives, particularly when prepaid, are strongly established in survey research literature as effective tools for increasing response. However, effectiveness of incentives on web-administered surveys is less clear, and can be impacted by a number of factors, including incentive type and amount, timing, and mode of survey administration. [[ref_coopersmith2016]]
 - ### Types of Incentives and Their Differences (Table)
 	- **Nature**
 		- Monetary — cash, gift cards, vouchers, checks
@@ -23,7 +23,7 @@
 - ### Different Survey Modes and Incentives
 	![[9781446256015-p198-1.jpg]]
 	image from (Gray, 2015)
-- ### General Consensus [[singer2018]]
+- ### General Consensus [[ref_singer2018]]
 	- Incentives are useful in making response rates higher
 		- Especially in self-administered ones
 		- Especially prepaid ones, in post surveys

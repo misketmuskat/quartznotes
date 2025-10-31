@@ -18,9 +18,9 @@ Up: [[index]]
 
 ---
 ## Readings for Project
-[[esen2021-why-did-turkish-democracy-collapse]]
-[[akcay2021-authortitarian-consolidation-dynamics-in-turkey]]
-[[arslanalp2020-mobile-emergency-rule-in-turkey]]
+[[ref_esen2021]]
+[[ref_akcay2021]]
+[[ref_arslanalp2020]]
 
 
 

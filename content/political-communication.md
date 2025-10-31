@@ -1,6 +1,4 @@
 Up: [[index]]
-
-**Type:** #academic/course 
 ## Course Description
 - **Instructors:** Prof. Dr. Nina Janich
 - **Event type:** Seminar
