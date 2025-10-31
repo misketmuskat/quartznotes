@@ -1,0 +1,1 @@
+Design strategies for complexity, modularity, and communication in humanities data visualization

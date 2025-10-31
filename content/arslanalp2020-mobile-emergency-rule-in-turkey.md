@@ -1,0 +1,23 @@
+Up: [[democratization-autocratization]]
+
+Arslanalp, Mert, and T. Deniz Erkmen. 2020. “Mobile Emergency Rule in Turkey: Legal Repression of Protests during Authoritarian Transformation.” _Democratization_ 27(6): 947–69. doi:[10.1080/13510347.2020.1753701](https://doi.org/10.1080/13510347.2020.1753701).
+
+- Protest repression provides an optic through which to observe how legal tools can be put into use during autocratization processes.
+- **Mobile Emergency Rule:** This strategy of ruling entails the extremely temporary and localized practice of suspending or limiting constitutional rights via administrative orders in the name of public order, to prevent or repress challenges without enacting a total suspension.
+	- we argue that such legal measures create a localized and shifting form of emergency-like suspension of rights across the national territory.
+#### Conceptual framework: emergency rule as an autocratizing tool
+- Autocratizing governments deploy an array of tools to build and maintain power. Some of these tools serve to incorporate mass and elite opponents, mobilize supporters or redesign existing institutions, yet many others are deployed to repress challengers. While repression does not exhaust authoritarian strategies of rule, autocratization by definition entails the suppression of the fundamental rights of citizenry.
+- Although largely ignored in the comparative study of political regimes, emergency powers have presented a type of legal-political tool that liberal democratic regimes have historically used to curtail liberties, and reconfigure the matrix of authorities, capacities, and protections in ways that expand executive discretion. Emergency powers, traditionally understood in legal theory as "authorized deviations from legal norms to handle - temporarily - such threatening conditions of special urgency," have a controversial yet accepted place in modern constitutionalism. They are controversial because these "temporary" deviations may entail measures that legally suspend or restrict constitutional rights, expand the powers of the executive branch, bypass deliberative processes or create special administrative and judicial bodies.
+- As Loevy suggests, it may be analytically more correct to consider emergencies as moments of norm-making as much as suspension of existing legal norms. Emergency rule, therefore, runs the risk of weakening if nor permanently eroding the basic tenets of liberal democratic rule of law while paradoxically remaining interwoven with it as Agamben and others have pointed out.
+#### From state of emergency to mobile emergency rule 
+- Our focus on temporary suspensions and limitations of fundamental rights in the name of public security that may also take place in ordinary times.
+- Unlike a state of emergency, which is formally declared with the decision of top elected sovereign bodies at the national or subnational level, in mobile emergency rule no such forma-legal declaration of emergency exists; normal juridical order continues from a constitutional perspective. Instead, most often officials suspend or limit rights through temporary administrative decisions.
+- Through repeated enactment of these interpretations they extend and generate new powers for themselves beyond their realm of discretion.
+- These actions by disparate authorities in distinct localities may or may not be coordinated but when they accumulate over time, they constitute a patterned strategy of governing that renders the boundaries between the so-called normal constitutional order and its suspension under emergency rule ambiguous.
+#### How protest band work?
+- ##### Appropriating legality
+	- What we regularly observe is the appropriation of a discourse of legality by authorities, preemptively banning a protest and conveying to the public that participation in such an event is a legal transgression, framing protestors as lawless in the process.
+- ##### Producing ambiguity
+	- What may seem like a collection of logical inconsistencies in fact serves two purposes. First, such ambiguous statements carve out a space of discretion for the authorities that projects an auro of legality. Second, they aim to hide the fact that the ban targets a particular content in the generalizable language of the law.
+	- Such legal framing by governors operated within the larger political and institutional context in which opposition to the governing party is increasingly painted as treacherous by the polarizing populist discourse of President Erdoğan.
+		- In all major protest events, he evoked the specter of Gezi as a rhetorical trope to stigmatize protestors as instruments of foreign powers that do not belong to the"real" Turkish people.

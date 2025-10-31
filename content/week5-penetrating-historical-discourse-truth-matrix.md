@@ -1,0 +1,19 @@
+Up: [[013_digital-oral-history]]
+Prev: [[week4-chatgpt-is-bullshit]]
+Next: [[week6-repurposing-holoaust-related-digital-scholarly-editions]]
+# Penetrating Historical Discourse's Truth Matrix: A Corpus Analysis of Oral History Testimonies
+
+## Reading Notes:
+- ##### Genel Özet:
+	- Bu makale, tarihsel anlatıların doğruluğunu ele alan bir dilbilimsel inceleme yapmaktadır. Özellikle, İrlanda Bağımsızlık Savaşı’na dair şahitlik ifadelerinin nasıl dilsel olarak şekillendirildiği ve bu ifadelerdeki epistemik modalite (gerçeklik hakkında belirsizlik veya güven) kullanımı üzerinde duruluyor. Makale, Michel Foucault'nun "tarihsel söylemin doğruluk matrisi" kavramına dayanarak, tarihsel olayların orijinalinden sonraki anlatımlarındaki öznel etkileri inceliyor.
+	- Makale, özellikle İrlanda Bağımsızlık Mücadelesi'ne dair tanık ifadelerini içeren "İrlanda Tarihi Anlatıları Korpu" (COIHN) veritabanını kullanarak, şahit ifadelerindeki epistemik modaliteyi anlamaya çalışıyor. Epistemik modalite, bir kişinin söylediği bir şeyin doğruluğuna ne kadar güven duyduğunu ifade eder. Bu bağlamda, "I think", "I remember", ve "I suppose" gibi ifadeler aracılığıyla tarihsel anlatılardaki güven seviyesi ve belirsizlikler analiz ediliyor.
+	- Makale, dilsel analiz araçları kullanarak, bu ifadelerin tarihsel anlatılarda ne gibi etkiler yarattığını, şahitlerin anlatılarındaki güvenilirlik ve doğruluk algısını nasıl şekillendirdiğini tartışıyor. Özellikle, bu tür ifadelerin, anlatıcıların tarihsel olayları anlatırken kendilerine olan güvenlerini artırmak için nasıl kullanıldığını ve bunun nasıl bir "paradoksal otorite" oluşturduğunu vurguluyor.
+	- Bu analiz, tarihsel yazıların sadece dışsal olayları yansıtmakla kalmayıp, aynı zamanda anlatıcıların dilsel seçimleriyle şekillenen bir gerçeklik inşasına da işaret eder.
+	- Makale, tarihsel anlatıların doğruluğuna dair daha derinlemesine bir anlayış geliştirmek için dilsel araçların kullanımını önermekte ve tarihsel araştırmalarda daha fazla dilbilimsel analiz yapılmasını savunmaktadır.
+- ##### [[epistemic-modality]]:
+	- **Nedir?**
+		- *Epistemic modality*, bir ifadenin doğruluğuna ilişkin bilgi veya inançları ifade eden dilsel bir özelliktir. Kısacası, bir şeyin _bilinen_ ya da _muhtemel_ olduğunu belirtir. Epistemik modalite, bir kişinin bilgi durumunu ve olasılıkları nasıl değerlendirdiğini yansıtır. Örneğin, "Bu akşam yağmur yağabilir" cümlesi epistemik modaliteyi gösterir çünkü yağmurun yağma olasılığına dair bir belirsizlik ve kişinin bilgi durumu ifade edilir.
+			- *Epistemic modality* ismi, Yunanca "epistēmē" (ἐπιστήμη) kelimesinden türetilmiştir, bu da "bilgi" veya "bilim" anlamına gelir. Bu bağlamda, "epistemic" terimi, _bilgi_ veya _bilgisel_ bir durumu ifade eder. Yani epistemik modalite, bir şeyin doğruluğu hakkında ne kadar bilgiye sahip olduğumuzu, ne kadar emin olduğumuzu veya bir şeyin olasılığını değerlendirdiğimizi gösterir.
+		- *Deontic modality* ise bir şeyin yapılması ya da yapılmaması gerektiğini, yani ahlaki veya toplumsal zorunlulukları, izinleri veya yasakları ifade eder. Bu tür ifadeler genellikle yükümlülükler ve haklarla ilgili olup, bir şeyin ne _yapılması gerektiğini_ veya _yasak_ olduğunu belirtir. Örneğin, "Bu görevi yapmalısın" cümlesi deontik modaliteyi ifade eder çünkü burada bir zorunluluk belirtilir.
+			- *Deontic* terimi, Yunanca "deon" (δέον), yani "gerekli" veya "zorunlu" kelimesinden türetilmiştir. Bu da, **ahlaki** ya da **toplumsal normlara dayalı** zorunlulukları, izinleri ve yasakları ifade eden bir kavramdır. Deontik modalite, bir eylemin yapılması gerektiğini, yapılmaması gerektiğini veya yapılmasına izin verilip verilmediğini belirten dilsel özellikleri ifade eder.
+- 

@@ -1,0 +1,15 @@
+- Framing (z.B. besonders Schlüsselwörter)
+- Multimodalität (Text-Bild-Arrangement, Typografie, Farben)
+
+- 1. vs 3. Person when talking about the self
+- Singular oder Plural while adressing the reader
+- Zitate
+- Bildasuwahl
+- Form der Pronominalisierung (Namens, )
+- Facetten des Identität
+	- Familie → Kindheit
+	- Ehe + Kindes
+	- Hobbies
+	- politische Etwicklung
+- Adeerssierung der Leser: direkt vs indirekt
+---

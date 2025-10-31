@@ -1,0 +1,23 @@
+
+- About 200 years ago, Humanities research started as highly Euro-centric discipline
+- Knowledge and understanding (they are different) — their connection to 
+- 3 group model of academic disciplines
+	- Natural sciences
+	- Social sciences
+	- Humanities
+- 5 group model
+	- Formal sciences
+	- Engineering sciences
+- Sciences of the human mind — examines all the artifacts created by the humanity
+- Culture in both broad and narrow sense.
+	- Broad: Culture in contrast to nature, referring everything that humans have contributed to the world.
+	- Narrow: economy, culture, politics in phrases like "the culture of the Elizabethan area"
+- **Humanities in different languages:**
+	- Liberal meaning of science/wissenchaft: evidence based, used both for natural sciences and humanities (bu discourse'a bağlanabilir)
+	- **vs** Science in conservative sence / for non-natural sciences "studies" is used
+- Renaissance Humanism played a key role in development of Humanities
+- **Globality and Locality**
+	- Although humanities is global, it is more local than the natural sciences, the formal sciences, engineering and even most social sciences.
+		- This is why in many countries, humanities is concerned with nationally and regionally relevant subjects.
+		- thematically global **but** principle of locality/socio-cultural embededness co-characterizes the humanities.
+- Disciplines under humanities umbrella are interconnected, 

@@ -1,0 +1,1 @@
+For start: https://en.wikipedia.org/wiki/Symbolic_interactionism

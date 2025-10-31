@@ -1,0 +1,281 @@
+## intro
+- #### key characteristics of humanities
+	- **global collaboration:** work across boundaries (linguistic, political, geographical), forming international societies
+		- collaboration and dialogue
+	- **educational innovation:** interdisciplinary approaches
+	- **research and publication:** collaborative research in academic journals
+- the humanities were primarily a European and North American endeavor until two centuries ago, today it's globally expanded
+- #### philosophical framework
+	- contribute to society's normative, socio-epistemic framework by investigating and interpreting *human culture, history, expression.*
+	- their epistemological and methodological distinctiveness lies in reliance on **interpretative, historical and critical methods** to analyze human culture and knowledge
+- #### global and local dimensions
+	- **localized emphases:** American history, French literature — reflect regional cultural and academic priorities
+	- **engagement with societal debates:** humanities research often addresses national and regional issues, contributes to societal understanding and cultural discourse
+- #### contemporary challenges to humanities
+	- declining enrollment
+	- funding issues
+	- societal perceptions of their relevance
+## the roots and the rise
+- **keywords:** antiquity to middle ages, philosophical reflection, historical awareness
+- **definition of the term** the humanities → disciplines study human culture, history, society, experience (literature, philosophy, anthropology, archeology, art, music, languages)
+- **where and how is it practiced?** globally within institutions (universities, libraries, museums); research, teaching, writing, curating, public outreach, artifacts, historical records
+- #### philosophical rationale for historical exploration
+	- historical awareness allows scholars to comprehend their discipline's position within a broader cultural and intellectual tradition
+- #### in antiquity
+	- the roots lie in ancient Greece and Rome — disciplines like philology and historiography
+	- **philological study of homer**
+		- Iliad and Odyssey were central to ancient Greek culture
+		- early scholars developed techniques for textual analysis to preserve and interpret these works
+		- the library of alexandria became a hub for philological activity
+		- Aristarchus of Samothrace produced critical editions of Homer's texts
+	- **thucydides - history of the peloponnesian war**
+		- groundbreaking shift in historiography
+		- emphasized empirical evidence, eyewitness, accounts, and critical evaluation of sources
+		- moving away from mythological explanations
+		- analyzing patterns of human behavior and motivations → influential on political science and ethics
+	- **cicero and the concept of humanitas**
+		- this concept encompasses cultural refinements, education, moral virtue
+			- emphasizes rhetoric, critical thinking, intellectual cultivation
+		- "well rounded individual" — classical texts, personal development
+			- groundwork for Renaissance humanism
+- #### the middle ages: institutionalisation of learning
+	- **monasteries as centers of learning**
+		- preserved ancient texts through scriptoria → monks copying manuscripts → survival of classical works (Aristotle, Cicero)
+		- emphasized literacy and religious study
+	- **cathedral school and the artes liberales**
+		- **trivium:** grammar, rhetoric, logic
+		- **quadrivium:** arithmetic, geometry, music, astronomy → foundation for understanding the natural world
+		- the  curriculum combined classical traditions with christian theology (faith & reason)
+	- **the rise of universities**
+		- Bologna, Paris, Oxford emerged in 12th and 13th centuries
+		- formalized education and research
+		- they built upon the foundation of Artes Liberales and expanded to new fields (law, medicine, theology)
+- #### historicization and authentication
+	- practice of historicization involves
+		- analyzing objects, texts, concepts within their historical and developmental contexts
+		- determining the origins, authenticity, transformations of objects or ideas over time
+		- "what, why, when and how?"
+		- accurate representation through critical evaluation and methodological rigor
+- #### two axes of self-reflection
+	- **horizontal / synchronic:** examining contemporary connections and differences among humanities disciplines and other fields like natural sciences
+		- general understanding (başka disiplinlere bakıp, bağlantılara, interdisipliner olanaklara bakıyoruz daha çok)
+	- **vertical / diachronic:** investigating the historical development of humanities practices, institutions, and ideals to understand their present significance
+		- deepening (geçmişe gidip, kendi disiplinimize bakıyoruz, bugünle geçmişi karşılaştırıyoruz daha çok)
+- #### ethical virtues
+	- truthfulness, critical thinking, intellectual curiosity
+## expansion and institutionalization (renaissance → enlightenment)
+- #### the renaissance: intellectual and cultural rebirth
+	- 14th to 17th centuries — a revival of interest in classical antiquity
+	- **ad fontes (to the sources):** commitment to revisiting classical texts in their original languages — textual accuracy  and historical understanding
+	- **humanist scholarship:** erasmus of rotterdam, lorenzo valla — critical editions of classical texts, development of philosophical techniques, influencing modern humanities
+	- **cultural flourishing:** individual expression and artistic achievement → innovations in visual arts, architecture, literature
+- #### the enlightenments: the age of critique
+	- 17th to 18th century — methodological rigor and philosophical depth to humanities
+	- **critical thinking:** emphasized reason, empirical inquiry, questioning of established norms → reshaping disciplines like history and philosophy
+	- **systematization of knowledge:** "encyclopedie" aimed to compile and categorize human knowledge → commitment to intellectual accessibility
+	- **historical criticism:** development of critical historiography, emphasizing primary sources, contextual analysis, skepticism towards traditional narratives
+- #### key themes and methodologies
+	- **historicization:** contextualization of objects, texts and practices within their historical frameworks
+		- determining origins and authenticity
+		- analyzing transformations over time
+		- exploring cultural and intellectual continuities and ruptures
+	- **interdisciplinary connections:** intersect with natural and social sciences, sharing methodologies while maintaining distinct epistemological goals
+		- archaeology integrates scientific techniques to analyze artifacts
+		- linguistic applies computational tools for language modelling
+	- **ethical and intellectual virtues:** critical thinking, intellectual curiosity, and a commitment to truth
+- #### impact on n-modern society
+	- **cultural preservation:** archives, libraries, museums safeguard cultural heritage
+	- **public engagement:** humanities disciplines address pressing societal issues, such as identity, ethics, historical memory — public discourse and policymaking
+	- **global perspective**
+## connections and demarcations: humanities within the academic system
+- **keywords:** role of the humanities within academic system, connections and distinctions with natural, social, formal sciences
+- understanding the place of humanities within system requires:
+	- analyzing their shared and distinct epistemological approaches
+	- examining their methodological differences and areas of interdisciplinary overlap
+	- reflecting on the unique role in shaping cultural, historical and ethical understanding
+- #### connections with the natural sciences
+	- **commitment to truth and knowledge:** both seek to acquire reliable knowledge. natural sciences rely on *empirical observation* and *experimentation*, the humanities emphasize *interpretative analysis*.
+	- **historical interactions:** humanities and natural sciences have historically intersected in some disciplines (archeology, art conservation)
+	- **humanistic dimensions of science:** ethical considerations, historical context, philosophy of science, study of ethical implications of technology relies on humanities perspective
+- #### distinctions from the natural sciences
+	- **methodology:** humanities — qualitative methods **vs** natural sciences — quantitative and empirical methods
+	- **object of study:** humanities — human expression, culture, history **vs** natural sciences — physical and biological phenomena
+	- **truth and interpretation:** humanities — interpretation, ambiguity, pluralism **vs** natural sciences — testable and falisfiable
+- #### connections with the social sciences
+	- social sciences occupy a middle ground between humanities and natural sciences, shares characteristics with both
+	- **common ground:** both humanities and social sciences study human behavior, culture, society
+	- **methodological overlap:** disciplines like anthropology and cultural studies use qualitative, interpretative methods (although sociology and political science can also be quantitative)
+	- **conceptual influences:** theoretical frameworks in the social sciences often draw from humanities disciplines (philosophy, history, literary studies)
+- #### distinctions from the social sciences
+	- **focus on interpretation:** the humanities prioritize interpretative and historical methods, social sciences also uses statistical and experimental techniques
+	- **nature of inquiry:** humanities deals with *meaning, aesthetics, ethics* **vs** social sciences *patterns and casuality in human behavior*
+- #### formal sciences and engineering sciences
+	- **formal sciences**
+		- abstract reasoning, axiomatic systems and logical deduction, rather than empirical investigation or interpretative analysis
+		- interdisciplinary contributions — formal sciences influence humanities, such as linguistic analysis, computational humanities, logic in philosophy
+	- **engineering sciences**
+		- engineering increasingly incorporates ethical, aesthetic and cultural considerations from the humanities
+		- integration of computational methods into humanities research
+- #### why academic disciplines are categorized in specific ways?
+	- **historical development:** the tripartite division of academia into humanities, natural sciences, social sciences emerged in the 19th century
+	- **normative considerations:** the classification of disciplines reflects institutional and epistemic priorities, they are not absolute distinctions
+	- **interdisciplinary perspectives:** rigid boundaries between disciplines are increasingly challenged by interdisciplinary research
+## expansion and institutionalization (enlightenment → 19th century)
+- #### the enlightenment and the humanities
+	- **emphasis on reason and critical thinking:** commitment to reason, skepticism towards traditional dogma, reliance on empirical methods → more systematic and analytical engagements with texts and sources
+	- **encyclopedic knowledge and systematization:** scholars tried to compile, categorize, systematize human knowledge. Diderot's and d'Alembert's Encyclopedie
+	- **secularization of biblical studies:** historical critical methods applied to religious texts, questioning the traditional theological interpretations
+- #### Johann Gottfried Herder (culturally inclusive guy)
+	- advocated for less rigid and more culturally sensitive approach to the humanities
+	- **challenging universal rationalism:** while many Enlightenment thinkers emphasized universal reason, Herder argued that human thought and culture are deeply embedded in historical and linguistic contexts.
+	- **cultural relativism:** every culture has its own unique *value system*, countering Eurocentric tendencies of time
+	- **development of historical understanding:** he influenced "historicism" — interpreting cultural and intellectual traditions within their historical circumstances
+- #### the rise of scholarly historicism
+	- understanding cultural and intellectual phenomena within their historical contexts.
+	- **Wilhelm von Humboldt:** a philosopher, linguist, and educational reformer / universities should focus on pursuit of knowledge and intellectual inquiry rather than beruflich training
+	- **Daniel Ernst Schleiermacher:** a theologian and philosopher / applied hermenuetical methods to biblical texts, need to interpret works within their historical and linguistic frameworks
+	- **August Boeckh:** a philologist / works on classical antiquity → methodological foundations of the humanities
+	- **Wilhelm Dilthey:** a philosopher / systematized the *epistemology of the humanities* → understanding (Verstehen) rather than empirical observation
+- #### institutionalization of the humanities in the 19th century
+	- formal establishment of humanities disciplines
+	- **the german model of higher education:** universities structured curricula to include distinct humanities disciplines, fostering specialization and rigorous academic training
+	- **creation of academic departments:** fields like history, philology, art history, and philosophy — as distinct areas of study
+	- **emergence of research methodologies:** methodological rigor, primary source analysis, interdisciplinary collabrotion
+- #### humanities and the academic system
+	- humanities became integrated into the broader academic system. this raised questions about:
+	- **demarcations between disciplines:** how do the humanities differ from and interact with natural and social sciences?
+	- **interdisciplinary connections:** what methodological and epistemological overlaps exist?
+	- **normative and ethical roles:** how do the humanities contribute to broader intellectual and cultural discourses?
+## the humanities within the academic system
+- structural and conceptual foundations of the humanities
+- interconnectedness of intellectual, ethical, methodological, institutional aspects of humanities scholarship
+- #### four pillars of humanities work
+	- **intellectual pillar:** the production of knowledge through interpretation, analysis, critical reflection
+	- **ethical pillar:** the cultivation of virtues such as fairness, open-mindedness, respect for diverse perspectives
+	- **methodological pillar:** the development and refinement of reliable research methods suited for humanistic inquiry
+	- **institutional pillar:** the organizational framework that includes universities, research institutions, archives, libraries, scholarly publications
+- these are interconnected: reliable methods require ethical intellectual conduct, and institutional structures must support methodological rigor and the free pursuit of knowledge
+- #### the role of academic institutions
+	- **universities and colleges**
+	- **research institutes**
+	- **libraries and archives**
+	- **journals and conferences**
+- institutions alone are insufficient to sustain the humanities. they must be accompanied by an intellectual culture that values curiosity, critical thinking and truth-seeking
+- #### humanities and the broader academic system
+	- **natural sciences:** focused on empirical observation and experimentation, differing from the humanities' interpretative and critical methodologies
+	- **social sciences:** overlapping in their study of human behavior and society but often employing quantitative and statistical methods
+	- **formal sciences:** based on abstract reasoning and axiomatic systems, contributing to disciplines such as linguistic analysis and digital humanities
+	- **engineering sciences:** engaging with ethical and aesthetic questions in fields like design, architecture, and technology studies
+- #### humanities' ethical and epistemic virtues
+	- **intellectual virtues:** truth-seeking, accuracy, precision, critical thinking
+	- **ethical virtues:** fairness, humility, respect for differing viewpoints
+- these virtues are essential for maintaining the integrity of humanities scholarship
+## four notable historicists
+- Friedrich Schleier-Macher, August Boeckh, Leoport von Ranke, Johann Gustav Droysen
+- #### recap: the four pillars of humanities work
+	- **epistemic responsibilities:** truth through critical analysis, historical sense, interpretative rigor
+	- **ethical responsibilities:** fairness, open-mindedness, respect for diverse perspectives
+	- **methodological responsibilities:** interpretative methods, contextualization, historical analysis
+	- **institutional responsibilities:** universities, libraries, scholarly networks
+- these four pillars are interdependent
+	- ohne ethical virtue = mechanical methods
+	- ohne institutional frameworks = no continuity and impact of scholarship
+- #### historical universalism, cultural pluralism
+	- **historical universalism:** treating all cultural traditions and historical periods ad equally worth of study
+		- scholars must set aside personal, political, religious biases to engage with history objectively
+	- **cultural pluralism:** values coexistence of diverse traditions and worldviews
+		- Johann Gottfried Herder's intellectual legacy played a key role in linking historical universalism with cultural pluralism
+- #### friedrich schleiermacher: the foundations of hermenuetics
+	- Schleiermacher was a philosopher and theologian
+		- **general hermenuetics:** unlike earlier traditions, interpretation applies not only to religious or legal texts, but to all forms of discourse
+		- **intentionalism and contextualism:** understanding a text requires reconstructing the author's intentions and considering the linguistic and historical context
+		- **grammatical and psychological interpretation:**
+			- **grammatical:** analyzes language use, syntax, vocabulary within historical context
+			- **psychological:** reconstructing author's thoughts and motivations
+		- **the hermeneutic circle:** understanding the whole requires understanding the parts, and vice versa — gestalt — fundamental in the humanities
+	- "an interpreter can understand an author's work even better than the author himself" — cornerstone of textual analysis
+- #### august boeckh: the science of antiquity and interdisciplinarity
+	- Boeckh was one of the most influential classical philologists of the 19th century
+	- **founding the philological seminar at the university of berlin**
+	- **encouraging interdisciplinary:** expanded philology beyond textual criticism to include history, archaeology, economics, epgraphy
+	- **historical reconstruction:** "The Public Economy of Athens" (1817)
+	- **systematization of philology:**
+		- defined philology as the *"acquiring of knowledge of the known"*
+		- rigorous specialization must be complemented by interdisciplinary collaboration
+- #### leopord von ranke: the birth of modern historiography
+	- father of modern historical scholarship
+		- **primary source-based history:** use of archival documents and firsthand accounts, original sources over secondary interpretations
+		- **objective historiography:** "to show how it actually was" — emphasises empirical accuracy; unbiased, non-judgemental approach to history
+		- **professionalization of history:** established research methodologies at the Uni Berlin; trained a generation of historians
+- #### johann gustav droysen: understanding history through research
+	- Contributed to the philosophy of history
+	- **forschendes verstehen (understanding through research):**
+		- historians not only collect facts, but also interpret their significance
+		- understanding requires active engagement with sources and historical reconstruction
+	- **rejection of deterministic history:** unlike Hegel, Droysen saw history as a dynamic and contingent process rather than a predetermined unfolding of events
+	- **influence on hermenuetics:** history is not a fixed record but a subject of continuous interpretation
+- #### the humanities and the natural sciences: connections and differences
+	- **wilhelm windelband and heinrich rickert:**
+		- humanities focus on *individualizing knowledge*, while the sciences seek *general laws*
+	- **wilhelm dilthey:** humanities require interpretative methods, distinct from empirical sciences
+	- **methods:**
+		- natural sciences rely on quantitative data and experiments
+		- humanities prioritize qualitative interpretation and historical context
+	- **epistemological goals:** 
+		- sciences seek universal laws
+		- humanities seek to understand unique cultural and historical phenomena
+	- **interdisciplinary interactions:**
+		- the humanities contribute ethical, historical, and critical perspectives to scientific debates
+- ## humanities and the sciences: commonalities, differences, and justifications
+- #### commonalities between the humanities and the sciences
+	- **truth-seeking:** both aim to expand knowledge and understand reality
+	- **systematic inquiry:** rely on rigorous methods to produce reliable knowledge
+	- **interdisciplinary integration:** both fields benefit from collaborations that merge empirical data with interpretative analysis
+- #### differences between the humanities and the sciences
+	- **methods of inquiry:**
+		- natural sciences rely on empirical observation, experimentation, quantitative analysis
+		- humanities realy on qualitative interpretation, historical analysis, textual exegesis
+	- **nature of knowledge:**
+		- scientific knowledge often seeks generalizable, universal laws
+		- humanities knowledge focuses on contextual, historically contingent, and interpretative understanding
+	- **verification and falification:**
+		- science relies on testability and falsifiability
+		- humanities interpretations are judged by their coherence, plausibility, and critical discourse
+- #### patterns of justification in the humanities
+	- **historical and cultural contextualization:** providing insight into the development of ideas, values, and traditions
+	- **ethical and critical reflection:** offering normative frameworks for evaluating human actions, policies, and technologies
+	- **preservation and interpretation of knowledge:** keeps historical and literary texts remain accessible and meaningful
+	- **public engagement and societal impact:** contributing to public discourse on identity, justice, cultural memory
+- #### the humanities in the digital age
+	- **computational analysis:** employ big data, text mining, ai-assisted research
+	- **interdisciplinary collaborations:** the integration of humanities with STEM fields, find new methodologies and paradigms
+	- **ethical oversight of tech:** societal implications of ai, biotechnology, digital surveillance
+---
+## interactive review sessions
+- **What is hermeneutics?**
+	- Hermeneutics is the *theory and practice of understanding texts* (or any other *symbolic expression* as a result of human activity, e.g. works of art) through *interpretation*. It involves the study of principles and methods for determining the features and meanings of the objects in question.
+	- In addition to thematically specialized hermeneutics related to specific types of texts (e.g., biblical and legal hermeneutics) or cultural artifacts (e.g., image hermeneutics), there has been, most notably since Schleiermacher, general hermeneutics aiming to explain the most fundamental principles and procedures of interpretive processes that lead to understanding written texts or spoken utterances or any other form of symbolic expression.
+		- **Connection to Schleiermacher and Droysen:** Friedrich Schleiermacher significantly contributed to general hermeneutics by developing principles of grammatical and psychological interpretation. Johann Gustav Droysen, in turn, expanded hermeneutics within historiography by emphasizing *Verstehen (understanding)* as a methodological approach distinct from *Erklären (explanation)* in the natural sciences.
+		- **Relation to the Humanities vs. Natural Sciences Debate:** The distinction between interpretative and empirical methodologies was explored, reinforcing hermeneutics as a defining feature of humanities.
+- **What is intentionalism in Hermenuetics?**
+	- Intentionalism in hermenuetics emphasizes the importance and, in fact, the necessity of understanding any text *with regard to its author's (or creator's) intended meaning or purpose*.
+	- Intentionalism posits that *textual or artifactual realized intentions play a decisive role in determining meaning* or function.
+		- **Relation to Ranke's Historical Objectivity:** Leopold von Ranke's historiographical method, emphasized the role of primary sources in reconstructing past realities *as they actually were*. While this aligns with intentionalist efforts to access the original meaning of texts, it also raises epistemological challenges regarding the subjectivity of interpretation.
+		- **Philosophical Expansion:** Wilhelm Dilthey later refined this perspective by arguing that humanistic interpretation must account for both subjective expression and the broader cultural context.
+- **What is contextualism?**
+	- an interpretative approach that emphasizes understanding a text within both *its author's biographical and the broader historical, cultural, and social context of production and initial reception*.
+	- Meaning of a particular text is deeply influenced by the surrounding circumstances, including language, the intellectual and cultural milieu, historical events, and societal norms, which shaped the author's intentions and the original audience's reception.
+		- **Relation to Boeckh's Philological Methodology:** August Boeckh argued that philology is more than textual analysis — it must integrate historical, linguistic, and socio-political contexts to fully reconstruct meaning.
+		- **Interdisciplinary Relevance**
+- **What is specialization?**
+	- Deliberate process of continuously focusing on a specific area of study, expertise, or skill, standardly resulting in in-depth knowledge and methodical proficiency within that particular domain.
+		- **Institutionalization of the Humanities:** The development of specialized academic disciplines in the 19th century, enabled deeper inquiry into specific humanities fields, from philology to art history.
+		- **Ranke's Influence:** The professionalization of historiography under Ranke exemplifies specialisation through rigorous archival research and methodological precision.
+- **What is interdisciplinarity?**
+	- Interdisciplinarity involves the integration of knowledge, methods, and approaches from multiple disciplines to adress the complex research topics. Int emphasized *collaboration among experts specialized in different fields* to achieve a comprehensive understanding of scientific or scholarly question related to those topics.
+		- **Relation to the Humanities' Expansion:** The humanities have increasingly intersected with the social and natural sciences, creating interdisciplinary fields such as digital humanities, bioethics, and cognitive linguistics.
+		- **Boeck's Model of Classical Philology:** Boeckh advocated for an interdisciplinary approach to antiquity, combining history, literature, economics, and philosophy.
+- **How do specialization and interdisciplinarity interrelate in scholarly activities?**
+	- Interdisciplinarity enhances the *depth and breadth of scholarly inquiries* by drawing on *diverse specializations* and pertinent methodologies.
+	- Specialization, guarantees that the research questions and results that enter interdisciplinary work are *sound and solid*, even in minute or highly complex details of subject matter.
+		- **Enlightenment and Systematization of Knowledge:** The Enlightenment's encyclopedic efforts highlight how specialization and interdisciplinary inquiry have historically coexisted.

@@ -1,0 +1,69 @@
+### What is a survey?
+- Target groups
+- We are interested in **target population**
+- We're not interested in individuals, instead groups of individuals and the characteristics of these groups
+- **Sample:**
+	- A selection of units from the target population.
+	- We collect data from the sample of people.
+	- We **estimate** the result. We don't do a census, but we estimate it.
+	- We are using statistics for it:
+		- Standart error, variance
+		- Confidence interval
+- Sample should be **random sample**.
+	- Composition of the sample should be similar to the composition of the target population.
+	- Everyone from the target population has the **same possibility** to be selected.
+	- Techniques of sampling is important.
+---
+### Total Survey Error
+- **Measurement:** From theoretical concept to the respondent's answers
+	- **construct**
+		- come up with a definition of our "question" → which is in this case "smoking"
+		- limit ourselves to the key components of "smoking"
+		- *validity error*
+		- operationalization: translate the terms we are using in our questionarre to 
+	- **measurement**
+		- measurement error
+			- yanlış cevaplar
+	- **response**
+		- while trying to correct measurement errors, we might create "processing error"
+	- **edited response**
+- **Representation:** How the group of respondents is selected and weighted.
+	- **target population**
+		- usually not everyone is included, there are exceptions
+		- when making these adjustments (who to include, who to exclude) we might have error
+		- there is no right or wrong, we should only document of what we have done
+			- for instance "a clear definition of our target population"
+	- **sampling frame**
+		- is often incomplete
+		- how to invite our sample to the survey?
+			- they might not have mobile phones, then we are excluding a part of the population 20%
+		- coverage error: describes the completeness of the sampling frame
+			- percentage itself is not the problem, but it is how they differ from the rest of the population
+				- a person without a mobile phone might differ drastically
+	- **sample**
+		- non-response error:
+			- refers to incompleteness of the sample
+			- non-contact error is a component
+			- 
+	- **respondents**
+		- adjustment error:
+			- we have to compensate the non-response error
+			- weighting is used to compensate 
+			- statistical quality shrinks 
+				- effective sample size shrinks: statistical power of sample
+	- **postsurvey adjustments**
+---
+- **Variance** (coverage, meausrement)
+	- Random error
+	- Precision of estimate
+	- Reliability
+	- No group is underrepresented
+- **Bias**
+	- Systematic error
+	- Accuracy of estimate
+	- Validity
+- **4 Key components of survey quality:**
+	- Measurement Error
+	- Sampling Error
+	- Nonresponse Error
+	- Coverage Error

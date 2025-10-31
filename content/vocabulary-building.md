@@ -1,0 +1,21 @@
+##### 31.10.2024
+- **vervirrt sein:** to be confused
+- **zerstören:** to destroy
+- **das Ruhrgebiet:** 
+- **die Kohle:** coal — **abbauen**
+- **die Mine:** mine
+- **der Stahl:** steel — **produzieren**
+- **tauchen:** to dive
+- **ein|tauchen:** to focus / concantrate
+- **tauschen:** to exchange
+- **ehemalig:** former, früher
+- **rund:** circa, etwa
+- **verzichten auf etwas:** bırakmak
+- **stilllegen:** keine action, nicht mehr aktiv / arbeiten
+- **erkunden:** entdecken / kennenlernen
+- **beeindrucken:** to impress (positiv oder negativ)
+- **begeistert sein:** to be impressed (immer positiv)
+- **übrigens:** by the way
+- **begleiten:** to accompany
+- **der Einbruch — einbrechen:** 
+- **aufsetzen:** put on — "Die Brille ist aufgesetzt."
