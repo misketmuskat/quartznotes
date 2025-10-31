@@ -1,3 +1,9 @@
+---
+title:
+  - Effects of Incentive Amount and Type of Web Survey Response Rates
+tags:
+  - reference
+---
 Up: [[presentation-increasing-response-rates-incentives]]
 
 ## Effects of Incentive Amount and Type of Web Survey Response Rates

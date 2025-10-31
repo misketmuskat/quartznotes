@@ -1,3 +1,9 @@
+---
+title:
+  - Mobile Emergency Rule in Turkey
+tags:
+  - reference
+---
 Up: [[democratization-autocratization]]
 
 Arslanalp, Mert, and T. Deniz Erkmen. 2020. “Mobile Emergency Rule in Turkey: Legal Repression of Protests during Authoritarian Transformation.” _Democratization_ 27(6): 947–69. doi:[10.1080/13510347.2020.1753701](https://doi.org/10.1080/13510347.2020.1753701).

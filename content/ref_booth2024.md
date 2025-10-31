@@ -1,3 +1,9 @@
+---
+title:
+  - Evaluating the Effect of Monetary Incentives on Web Survey Response Rates
+tags:
+  - reference
+---
 Up: [[presentation-increasing-response-rates-incentives]]
 
 ## Evaluating the Effect of Monetary Incentives on Web Survey Response Rates in the UK Millennium Cohort Study

@@ -1,3 +1,9 @@
+---
+title:
+  - Prepaid and Promised Incentives in Web Surveys
+tags:
+  - reference
+---
 Up: [[presentation-increasing-response-rates-incentives]]
 
 ## Prepaid and Promised Incentives in Web Surveys: An Experiment

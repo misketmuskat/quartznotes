@@ -1,3 +1,9 @@
+---
+title:
+  - Effect of a Post-paid Incentive on Response Rates to a Web-based Survey
+tags:
+  - reference
+---
 Up: [[presentation-increasing-response-rates-incentives]]
 
 ## Effect of a Post-Paid Incentive on Response Rates to a Web-Based Survey

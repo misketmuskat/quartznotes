@@ -1,3 +1,9 @@
+---
+title:
+  - Money Will Solve the Problem
+tags:
+  - reference
+---
 Up: [[presentation-increasing-response-rates-incentives]]
 
 ## “Money Will Solve the Problem”: Testing the Effectiveness of Conditional Incentives for Online Surveys

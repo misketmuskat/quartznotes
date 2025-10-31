@@ -1,3 +1,9 @@
+---
+title:
+  - Why Did Turkish Democracy Collapse? A Political Economy Account
+tags:
+  - reference
+---
 Up: [[democratization-autocratization]]
 
 Esen, Berk, and Sebnem Gumuscu. 2021. “Why Did Turkish Democracy Collapse? A Political Economy Account of AKP’s Authoritarianism.” _Party Politics_ 27(6): 1075–91. doi:[10.1177/1354068820923722](https://doi.org/10.1177/1354068820923722).
